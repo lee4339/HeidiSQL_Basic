@@ -74,3 +74,8 @@ Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distributi
 2022-04-11 11:58:27 6 [Warning] Aborted connection 6 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
 2022-04-11 12:29:28 7 [Warning] Aborted connection 7 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
 2022-04-11 12:29:43 8 [Warning] Aborted connection 8 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-12 12:17:35 9 [Warning] Aborted connection 9 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-12 12:58:58 10 [Warning] Aborted connection 10 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-12 13:03:29 12 [Warning] Aborted connection 12 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-12 13:03:29 13 [Warning] Aborted connection 13 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-12 13:03:55 14 [Warning] Aborted connection 14 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
