@@ -160,3 +160,11 @@ Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distributi
 Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distribution
 2022-04-18 12:32:48 4 [Warning] Aborted connection 4 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
 2022-04-18 12:51:09 5 [Warning] Aborted connection 5 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-23 22:46:36 44 [Warning] Aborted connection 44 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-23 22:48:03 45 [Warning] Aborted connection 45 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-23 22:50:14 46 [Warning] Aborted connection 46 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-23 22:51:49 47 [Warning] Aborted connection 47 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-23 22:58:57 48 [Warning] Aborted connection 48 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-23 22:59:33 49 [Warning] Aborted connection 49 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-23 23:07:46 50 [Warning] Aborted connection 50 to db: 'jsp-junil' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2022-04-26 11:22:19 73 [Warning] Aborted connection 73 to db: 'instagram' user: 'root' host: 'localhost' (Got an error reading communication packets)
