@@ -18,3 +18,11 @@ from
 ORDER BY
 	board_code DESC
 LIMIT 0, 5;
+
+
+select
+			*,
+			ud.profile_img_url
+		from
+			user_mst um
+			left outer join user_dtl ud on(ud.user_code = um.user_code)
