@@ -1119,3 +1119,111 @@ Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distributi
 2022-09-26 15:54:02 0 [Note] InnoDB: Buffer pool(s) load completed at 220926 15:54:02
 2022-09-26 15:54:02 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: ready for connections.
 Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distribution
+2022-09-30 11:36:38 0 [Note] Windows service "MariaDB":  received SERVICE_CONTROL_SHUTDOWN
+2022-09-30 11:36:38 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-09-30 11:36:38 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-09-30 11:36:38 0 [Note] InnoDB: Starting shutdown...
+2022-09-30 11:36:38 0 [Note] InnoDB: Dumping buffer pool(s) to C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-09-30 11:36:38 0 [Note] InnoDB: Buffer pool(s) dump completed at 220930 11:36:38
+2022-09-30 11:36:39 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-09-30 11:36:39 0 [Note] InnoDB: Shutdown completed; log sequence number 1472571; transaction id 1193
+2022-09-30 11:36:39 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: Shutdown complete
+
+2022-09-30 11:37:08 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-09-30 11:37:08 0 [Note] InnoDB: Number of pools: 1
+2022-09-30 11:37:08 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-09-30 11:37:09 0 [Note] InnoDB: Initializing buffer pool, total size = 2147483648, chunk size = 134217728
+2022-09-30 11:37:09 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-09-30 11:37:09 0 [Note] InnoDB: 128 rollback segments are active.
+2022-09-30 11:37:09 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-09-30 11:37:09 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-09-30 11:37:09 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-09-30 11:37:09 0 [Note] InnoDB: 10.6.7 started; log sequence number 1472571; transaction id 1192
+2022-09-30 11:37:09 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-09-30 11:37:09 0 [Note] Server socket created on IP: '::'.
+2022-09-30 11:37:09 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-09-30 11:37:09 0 [Note] InnoDB: Loading buffer pool(s) from C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-09-30 11:37:09 0 [Note] InnoDB: Buffer pool(s) load completed at 220930 11:37:09
+2022-09-30 11:37:09 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: ready for connections.
+Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distribution
+2022-10-07 20:10:34 0 [Note] Windows service "MariaDB":  received SERVICE_CONTROL_SHUTDOWN
+2022-10-07 20:10:34 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-10-07 20:10:34 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-10-07 20:10:34 0 [Note] InnoDB: Starting shutdown...
+2022-10-07 20:10:34 0 [Note] InnoDB: Dumping buffer pool(s) to C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-10-07 20:10:34 0 [Note] InnoDB: Buffer pool(s) dump completed at 221007 20:10:34
+2022-10-07 20:10:34 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-10-07 20:10:34 0 [Note] InnoDB: Shutdown completed; log sequence number 1472583; transaction id 1193
+2022-10-07 20:10:34 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: Shutdown complete
+
+2022-10-07 20:11:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-10-07 20:11:05 0 [Note] InnoDB: Number of pools: 1
+2022-10-07 20:11:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-10-07 20:11:05 0 [Note] InnoDB: Initializing buffer pool, total size = 2147483648, chunk size = 134217728
+2022-10-07 20:11:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-10-07 20:11:05 0 [Note] InnoDB: 128 rollback segments are active.
+2022-10-07 20:11:05 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-10-07 20:11:05 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-10-07 20:11:05 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-10-07 20:11:05 0 [Note] InnoDB: 10.6.7 started; log sequence number 1472583; transaction id 1192
+2022-10-07 20:11:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-10-07 20:11:05 0 [Note] Server socket created on IP: '::'.
+2022-10-07 20:11:05 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-10-07 20:11:05 0 [Note] InnoDB: Loading buffer pool(s) from C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-10-07 20:11:05 0 [Note] InnoDB: Buffer pool(s) load completed at 221007 20:11:05
+2022-10-07 20:11:05 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: ready for connections.
+Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distribution
+2022-10-13 10:53:56 0 [Note] Windows service "MariaDB":  received SERVICE_CONTROL_SHUTDOWN
+2022-10-13 10:53:56 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-10-13 10:53:56 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-10-13 10:53:56 0 [Note] InnoDB: Starting shutdown...
+2022-10-13 10:53:56 0 [Note] InnoDB: Dumping buffer pool(s) to C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-10-13 10:53:56 0 [Note] InnoDB: Buffer pool(s) dump completed at 221013 10:53:56
+2022-10-13 10:53:56 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-10-13 10:53:56 0 [Note] InnoDB: Shutdown completed; log sequence number 1474783; transaction id 1199
+2022-10-13 10:53:56 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: Shutdown complete
+
+2022-10-13 10:54:30 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-10-13 10:54:30 0 [Note] InnoDB: Number of pools: 1
+2022-10-13 10:54:30 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-10-13 10:54:30 0 [Note] InnoDB: Initializing buffer pool, total size = 2147483648, chunk size = 134217728
+2022-10-13 10:54:30 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-10-13 10:54:30 0 [Note] InnoDB: 128 rollback segments are active.
+2022-10-13 10:54:30 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-10-13 10:54:30 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-10-13 10:54:30 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-10-13 10:54:30 0 [Note] InnoDB: 10.6.7 started; log sequence number 1474783; transaction id 1199
+2022-10-13 10:54:30 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-10-13 10:54:30 0 [Note] InnoDB: Loading buffer pool(s) from C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-10-13 10:54:30 0 [Note] Server socket created on IP: '::'.
+2022-10-13 10:54:30 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-10-13 10:54:30 0 [Note] InnoDB: Buffer pool(s) load completed at 221013 10:54:30
+2022-10-13 10:54:30 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: ready for connections.
+Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distribution
+2022-10-14 20:30:25 0 [Note] Windows service "MariaDB":  received SERVICE_CONTROL_SHUTDOWN
+2022-10-14 20:30:25 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe (initiated by: unknown): Normal shutdown
+2022-10-14 20:30:25 0 [Note] InnoDB: FTS optimize thread exiting.
+2022-10-14 20:30:25 0 [Note] InnoDB: Starting shutdown...
+2022-10-14 20:30:25 0 [Note] InnoDB: Dumping buffer pool(s) to C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-10-14 20:30:25 0 [Note] InnoDB: Buffer pool(s) dump completed at 221014 20:30:25
+2022-10-14 20:30:25 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2022-10-14 20:30:25 0 [Note] InnoDB: Shutdown completed; log sequence number 1474795; transaction id 1202
+2022-10-14 20:30:25 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: Shutdown complete
+
+2022-10-14 20:30:56 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-10-14 20:30:56 0 [Note] InnoDB: Number of pools: 1
+2022-10-14 20:30:56 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2022-10-14 20:30:56 0 [Note] InnoDB: Initializing buffer pool, total size = 2147483648, chunk size = 134217728
+2022-10-14 20:30:56 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-10-14 20:30:56 0 [Note] InnoDB: 128 rollback segments are active.
+2022-10-14 20:30:56 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-10-14 20:30:56 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-10-14 20:30:56 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2022-10-14 20:30:56 0 [Note] InnoDB: 10.6.7 started; log sequence number 1474795; transaction id 1199
+2022-10-14 20:30:56 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-10-14 20:30:56 0 [Note] Server socket created on IP: '::'.
+2022-10-14 20:30:56 0 [Note] Server socket created on IP: '0.0.0.0'.
+2022-10-14 20:30:56 0 [Note] InnoDB: Loading buffer pool(s) from C:\programing\Junil\Geonho\MariaDB-Data\ib_buffer_pool
+2022-10-14 20:30:56 0 [Note] InnoDB: Buffer pool(s) load completed at 221014 20:30:56
+2022-10-14 20:30:56 0 [Note] C:\Program Files\MariaDB 10.6\bin\mysqld.exe: ready for connections.
+Version: '10.6.7-MariaDB'  socket: ''  port: 8001  mariadb.org binary distribution
